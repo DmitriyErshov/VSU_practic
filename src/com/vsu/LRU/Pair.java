@@ -13,7 +13,7 @@ public class Pair <k> {
     public Pair(k key) throws InterruptedException {
         this.key = key;
         usageDate = new Date();
-        Thread.sleep(1);
+        Thread.sleep(2);
         usageDate.getTime();
     }
 }
