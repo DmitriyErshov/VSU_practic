@@ -8,8 +8,8 @@ import com.vsu.LRU.ProxyLRUFactory;
 import java.util.Date;
 
 /*
-Ершов Дмитрий 9 гр
-Лаба 1 Вариант 1
+Ершов Дмитрий 14 гр
+Разработать LRU cache для хранения фильмов
  */
 
 public class Main {
