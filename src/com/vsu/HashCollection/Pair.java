@@ -1,6 +1,6 @@
 package com.vsu.HashCollection;
 
-class Pair<TK, TV>
+public class Pair<TK, TV>
 {
     public TK key;
     public TV value;
