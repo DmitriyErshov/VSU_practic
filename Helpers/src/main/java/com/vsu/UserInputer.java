@@ -1,4 +1,5 @@
 package com.vsu;
+
 import com.vsu.HashCollection.Pair;
 
 import java.util.Scanner;
