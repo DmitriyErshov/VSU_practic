@@ -39,7 +39,7 @@ pipeline {
         }
         stage("Publish") {
             steps {
-                bat 'copy "main\\target\\LRUCache-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\\NewIdeaProjects\\VSU_practic"'
+                bat 'copy "target\\LRUCache-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\\NewIdeaProjects\\VSU_practic"'
             }
         }
     }
