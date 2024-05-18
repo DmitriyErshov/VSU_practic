@@ -19,7 +19,7 @@ public class HashTable<TK, TV> {
 
     public int getSize()
     {
-        return 999;
+        return tableSize;
     }
 
     public boolean Add(TK key, TV value)
